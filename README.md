@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @miroslavmasaryk3221
 - 👀 I’m interested in making scripts, automatization of the process.
-- 🌱 I’m currently finishing Project in Python-Automatization project.
+- 🌱 You can check my Projects below 
 - 📫 You can reach me at miroslavmasaryk3221@gmail.com
 
 <!---
