@@ -8,10 +8,12 @@
 
 
 
-- 👋 Hi, I’m @miroslavmasaryk3221
-- 👀 I’m interested in making scripts, automatization of the process.
-- 🌱 You can check my Projects below 
+- 👋 Hi, My name is Miroslav Masaryk
+- 👀 I’m passionate Senior DevOps Enginner who does not like manual intervention and tries to automate everything.
 - 📫 You can reach me at miroslavmasaryk3221@gmail.com
+
+“The most powerful tool we have as developers is automation.”
+—Scott Hanselman
 
 
 
